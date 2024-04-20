@@ -8,7 +8,7 @@ require (
 	github.com/google/differential-privacy/go/v2 v2.1.1-0.20230822150926-c89810faa5ad
 	github.com/google/go-cmp v0.6.0
 	gonum.org/v1/plot v0.14.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
